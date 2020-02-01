@@ -7,5 +7,7 @@ Materials for hands-on [class](https://ireapps.github.io/nicar-2020-schedule#202
 
 ### Usage
 This repo assumes pipenv is installed.
+
 `$ pipenv install`
+
 `$ pipenv run jupyter notebook`
