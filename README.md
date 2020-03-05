@@ -3,7 +3,7 @@ Materials for hands-on [class](https://ireapps.github.io/nicar-2020-schedule#202
 
 ### Contents
 - `pdf/` contains the PDF files to be processed
-- `01-batch-pdf-processing.ipynb` contains the processing scripts
+- `01-batch-pdf-processing.ipynb` contains the [code](https://github.com/dankeemahill/nicar20-batch-pdf-processing/blob/master/01-batch-pdf-processing.ipynb)
 
 ### Usage
 This repo assumes pipenv is installed.
